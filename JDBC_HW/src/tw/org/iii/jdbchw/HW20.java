@@ -19,7 +19,11 @@ import java.util.Properties;
  * 	alt+shift+z => try catch shortcut
  * 
  * 	**補充 MDB
- * 	Access=>
+ * 	Access 連接 Java
+ * 	=> 參考微軟官方文件(套用API)
+ * 	=> 基本上與使用mysql很類似, buildpath/Class.forName
+ * 	=> 操作方法與課堂上練習的mysql很像
+ * 	=> Access: 屬本機檔案 所以沒有帳號密碼
  */
 
 public class HW20 {
